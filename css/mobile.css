@@ -393,7 +393,6 @@ main{
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
     align-items: center;
-    justify-content: center;
 }
 .plans-card{
     position: relative;
